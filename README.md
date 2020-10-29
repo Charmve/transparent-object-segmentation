@@ -1,6 +1,6 @@
 # Transparent-Object-Segmentation
 Transparent objects such as windows and bottles made by glass widely exist in the real world. Segmenting transparent objects is challenging because these objects have diverse appearance inherited from the image background, making them had similar appearance with their surroundings.
-
+<br>
 
 ## Segmenting Transparent Objects in the Wild (ECCV 2020)
 
@@ -13,7 +13,7 @@ Transparent objects such as windows and bottles made by glass widely exist in th
 <strong>Related Material</strong>
 
 [<a href="https://arxiv.org/pdf/2003.13948v3.pdf">pdf</a>] [<a href=" ">supp</a>] [<a href="https://github.com/xieenze/Segment_Transparent_Objects">code</a>]
-
+<br>
 
 ## Deep Polarization Cues for Transparent Object Segmentation (CVPR 2020)
 
@@ -26,6 +26,8 @@ Segmentation of transparent objects is a hard, open problem in computer vision. 
 <strong>Related Material</strong>
 
 [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf">supp</a>] [<a href="">code</a>]
+<br>
+
 
 ## TransCut: Transparent Object Segmentation from a Light-Field Image (ICCV 2015)
 
