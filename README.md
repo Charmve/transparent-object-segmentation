@@ -25,7 +25,21 @@ Segmentation of transparent objects is a hard, open problem in computer vision. 
 
 <strong>Related Material</strong>
 
-[<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf">supp</a>] [<a href="">code</a>]
+[<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf">supp</a>] [<a href="">code</a>] [<a href="https://www.youtube.com/watch?v=hF64LfsR5Lc">video</a>] 
+<br>
+
+
+## Single-Stage Semantic Segmentation from Image Labels (CVPR 2020)
+
+Nikita Araslanov and Stefan Roth
+
+<strong>Abstract</strong>
+
+Recent years have seen a rapid growth in new approaches improving the accuracy of semantic segmentation in a weakly supervised setting, i.e. with only image-level labels available for training. However, this has come at the cost of increased model complexity and sophisticated multi-stage training procedures. This is in contrast to earlier work that used only a single stage − training one segmentation network on image labels − which was abandoned due to inferior segmentation accuracy. In this work, we first define three desirable properties of a weakly supervised method: local consistency, semantic fidelity, and completeness. Using these properties as guidelines, we then develop a segmentation-based network model and a self-supervised training scheme to train for semantic masks from image-level annotations in a single stage. We show that despite its simplicity, our method achieves results that are competitive with significantly more complex pipelines, substantially outperforming earlier single-stage methods.
+
+<strong>Related Material</strong>
+
+[<a href="https://arxiv.org/abs/2005.08104">arXiv</a>] [<a href="">supp</a>] [<a href="https://github.com/visinf/1-stage-wseg">code</a>]
 <br>
 
 
