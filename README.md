@@ -12,7 +12,7 @@ Transparent objects such as windows and bottles made by glass widely exist in th
 
 <strong>Related Material</strong>
 
-[<a href="https://arxiv.org/pdf/2003.13948v3.pdf">pdf</a>] [<a href=" ">supp</a>] [<a href="https://github.com/xieenze/Segment_Transparent_Objects">code</a>]
+[<a href="https://arxiv.org/pdf/2003.13948v3.pdf" target="_blank">pdf</a>] [<a href=" ">supp</a>] [<a href="https://github.com/xieenze/Segment_Transparent_Objects" target="_blank">code</a>]
 <br>
 
 ## Deep Polarization Cues for Transparent Object Segmentation (CVPR 2020)
@@ -25,7 +25,7 @@ Segmentation of transparent objects is a hard, open problem in computer vision. 
 
 <strong>Related Material</strong>
 
-[<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf">supp</a>] [<a href="">code</a>] [<a href="https://www.youtube.com/watch?v=hF64LfsR5Lc">video</a>] 
+[<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf" target="_blank">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf" target="_blank">supp</a>] [<a href="">code</a>] [<a href="https://www.youtube.com/watch?v=hF64LfsR5Lc" target="_blank">video</a>] 
 <br>
 
 
@@ -39,7 +39,7 @@ Recent years have seen a rapid growth in new approaches improving the accuracy o
 
 <strong>Related Material</strong>
 
-[<a href="https://arxiv.org/abs/2005.08104">arXiv</a>] [<a href="">supp</a>] [<a href="https://github.com/visinf/1-stage-wseg">code</a>]
+[<a href="https://arxiv.org/abs/2005.08104" target="_blank">arXiv</a>] [<a href="" target="_blank">supp</a>] [<a href="https://github.com/visinf/1-stage-wseg" target="_blank">code</a>]
 <br>
 
 
@@ -57,7 +57,7 @@ field dataset for the transparent object, and use this dataset to evaluate our m
 
 <strong>Related Material</strong>
 
-[<a href="https://arxiv.org/pdf/1511.06853v1.pdf">arXiv</a>] [<a href="">supp</a>] [<a href="">code</a>]
+[<a href="https://arxiv.org/pdf/1511.06853v1.pdf" target="_blank">arXiv</a>] [<a href="" target="_blank">supp</a>] [<a href="" target="_blank">code</a>]
 
 
 ## Mirror & Glass Detection in Real Scene
