@@ -1,4 +1,14 @@
 # Transparent-Object-Segmentation
+
+<div align="center">
+    <img src="https://github.com/Charmve/Mirror-Glass-Detection/blob/master/logo-GlassDetec.png" width="400px">
+</div>
+
+<p align="center">
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="github"></a>
+  <a href="https://github.com/Charmve/Mirror-Glass-Detection"><img src="https://img.shields.io/badge/Charmve-Glass%20Detect-red" alt="Mirror%20Glass%20Detection"></a>
+</p>
+
 Transparent objects such as windows and bottles made by glass widely exist in the real world. Segmenting transparent objects is challenging because these objects have diverse appearance inherited from the image background, making them had similar appearance with their surroundings.
 <br>
 
