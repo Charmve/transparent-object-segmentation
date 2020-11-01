@@ -1,4 +1,4 @@
-<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href=" " target="_blank">Chinese</a>
+<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | Chinese
 
 <div align="center">
     <img src="https://github.com/Charmve/Mirror-Glass-Detection/blob/master/logo-GlassDetec.png" width="400px">
