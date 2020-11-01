@@ -1,4 +1,4 @@
-<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href="https://arxiv.org/pdf/1511.06853v1.pdf" target="_blank">Chinese</a>
+<a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | <a href=" " target="_blank">Chinese</a>
 
 <div align="center">
     <img src="https://github.com/Charmve/Mirror-Glass-Detection/blob/master/logo-GlassDetec.png" width="400px">
@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="github"></a>
   <a href="https://github.com/Charmve/Mirror-Glass-Detection"><img src="https://img.shields.io/badge/Charmve-Glass%20Detect-red" alt="Mirror%20Glass%20Detection"></a>
+  <a href="https://github.com/Charmve/Mirror-Glass-Detection/References.md"><img src="https://img.shields.io/badge/doc-Related%20Work-green" alt="reference"></a>
 </p>
 
 
