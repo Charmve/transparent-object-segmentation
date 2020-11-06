@@ -1,8 +1,3 @@
-# Transparent-Object-Segmentation
-
-Transparent objects such as windows and bottles made by glass widely exist in the real world. Segmenting transparent objects is challenging because these objects have diverse appearance inherited from the image background, making them had similar appearance with their surroundings.
-<br>
-
 <a href="https://github.com/Charmve" target="_blank">Charmve</a> | English | Chinese
 
 <div align="center">
@@ -15,6 +10,11 @@ Transparent objects such as windows and bottles made by glass widely exist in th
   <a href="https://github.com/Charmve/Mirror-Glass-Detection/References.md"><img src="https://img.shields.io/badge/doc-Related%20Work-green" alt="reference"></a>
 </p>
 
+<br>
+
+# Transparent-Object-Segmentation
+
+Transparent objects such as windows and bottles made by glass widely exist in the real world. Segmenting transparent objects is challenging because these objects have diverse appearance inherited from the image background, making them had similar appearance with their surroundings.
 <br>
 
 ## Segmenting Transparent Objects in the Wild (ECCV 2020)
