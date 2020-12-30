@@ -59,7 +59,7 @@ Recent years have seen a rapid growth in new approaches improving the accuracy o
 for segmentation in a self-supervised fashion using only
 image-level annotations (one run of 20 epochs on Pascal VOC).</i>
 
-<strong>Related Material</strong>
+<br><strong>Related Material</strong>
 
 [<a href="https://arxiv.org/abs/2005.08104" target="_blank">arXiv</a>] [<a href="" target="_blank">supp</a>] [<a href="https://github.com/visinf/1-stage-wseg" target="_blank">code</a>]
 <br>
