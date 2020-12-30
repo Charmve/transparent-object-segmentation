@@ -38,6 +38,42 @@ Agastya Kalra, Vage Taamazyan, Supreeth Krishna Rao, Kartik Venkataraman, Ramesh
 
 Segmentation of transparent objects is a hard, open problem in computer vision. Transparent objects lack texture of their own, adopting instead the texture of scene background. This paper reframes the problem of transparent object segmentation into the realm of light polarization, i.e., the rotation of light waves. We use a polarization camera to capture multi-modal imagery and couple this with a unique deep learning backbone for processing polarization input data. Our method achieves instance segmentation on cluttered, transparent objects in various scene and background conditions, demonstrating an improvement over traditional image-based approaches. As an application we use this for robotic bin picking of transparent objects.
 
+<div class="col-lg-9 item-col">
+    <div class="row">
+        <div class="col-lg-9 item-content">
+            <h1><a href="/paper/deep-polarization-cues-for-transparent-object">Deep Polarization Cues for Transparent Object Segmentation</a></h1>
+            <p class="author-section" style="padding-top:2px">
+                <span class="item-conference-link">
+                    <a href="/conference/cvpr-2020-6">
+                       CVPR 2020
+                    </a>
+                </span>
+              • <a href="/paper/deep-polarization-cues-for-transparent-object#code">no code implementations</a>
+            <p class="item-strip-abstract">Segmentation of transparent objects is a hard, open problem in computer vision.</p>
+            <p>
+                <a href="/task/instance-segmentation"><span class="badge badge-primary">INSTANCE SEGMENTATION</span></a>
+                <a href="/task/semantic-segmentation"><span class="badge badge-primary">SEMANTIC SEGMENTATION</span></a>
+            </p>
+         </div>
+         <div class="col-lg-3 item-interact text-center">
+             <div class="entity-stars">
+                    <span class="badge badge-secondary" style="border:none;background-color:transparent">&nbsp;</span>
+             </div>
+             <div class="entity" style="margin-bottom: 20px;">
+                 <a href="/paper/deep-polarization-cues-for-transparent-object" class="badge badge-light">
+                        <ion-icon name="document"></ion-icon> Paper
+                 </a>
+                 <br/>
+                 <a href="/paper/deep-polarization-cues-for-transparent-object#code" class="badge badge-dark badge-nocode">
+                     <ion-icon name="add"></ion-icon> Add Code
+                 </a>
+                 <br/>
+             </div>
+         </div>
+      </div>
+  </div>
+</div>
+
 <strong>Related Material</strong>
 
 [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kalra_Deep_Polarization_Cues_for_Transparent_Object_Segmentation_CVPR_2020_paper.pdf" target="_blank">pdf</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kalra_Deep_Polarization_Cues_CVPR_2020_supplemental.pdf" target="_blank">supp</a>] [<a href="">code</a>] [<a href="https://www.youtube.com/watch?v=hF64LfsR5Lc" target="_blank">video</a>] 
@@ -51,6 +87,13 @@ Nikita Araslanov and Stefan Roth
 <strong>Abstract</strong>
 
 Recent years have seen a rapid growth in new approaches improving the accuracy of semantic segmentation in a weakly supervised setting, i.e. with only image-level labels available for training. However, this has come at the cost of increased model complexity and sophisticated multi-stage training procedures. This is in contrast to earlier work that used only a single stage − training one segmentation network on image labels − which was abandoned due to inferior segmentation accuracy. In this work, we first define three desirable properties of a weakly supervised method: local consistency, semantic fidelity, and completeness. Using these properties as guidelines, we then develop a segmentation-based network model and a self-supervised training scheme to train for semantic masks from image-level annotations in a single stage. We show that despite its simplicity, our method achieves results that are competitive with significantly more complex pipelines, substantially outperforming earlier single-stage methods.
+
+<div align="center">
+    <img src="https://github.com/visinf/1-stage-wseg/raw/master/figures/results.gif" width="400px">
+</div>
+<i>Fig.1 We attain competitive results by training a single network model
+for segmentation in a self-supervised fashion using only
+image-level annotations (one run of 20 epochs on Pascal VOC).</i>
 
 <strong>Related Material</strong>
 
@@ -72,7 +115,7 @@ field dataset for the transparent object, and use this dataset to evaluate our m
 
 <strong>Related Material</strong>
 
-[<a href="https://arxiv.org/pdf/1511.06853v1.pdf" target="_blank">arXiv</a>] [<a href="" target="_blank">supp</a>] [<a href="" target="_blank">code</a>]
+[<a href="https://arxiv.org/pdf/1511.06853v1.pdf" target="_blank">arXiv</a>] [<a href="https://transcut.github.io/Supplementary.pdf" target="_blank">slides</a>] [<a href="https://transcut.github.io" target="_blank">code</a>] [<a href="https://transcut.github.io/transcut-P4A-04-v2.pdf" target="_blank">ICCV poster</a>] 
 
 
 ## Mirror & Glass Detection in Real Scene
